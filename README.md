@@ -1,4 +1,4 @@
-<h1 align="center">Hi 💚, I'm alphadevking</h1>
+<h1 align="center">Hi 💚, I'm Favour Orukpe (alphadevking)</h1>
 <h3 align="center">A FULLSTACK SOFTWARE ENGINEER</h3>
 
 <h6 align="center">...your favorite dev!</h6>
