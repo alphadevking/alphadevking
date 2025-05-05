@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Fast API, Data Science, AI/ML**
 
-- 👨‍💻 All of my projects are available at [https://withnexus.vercel.app](https://withnexus.vercel.app)
+- 👨‍💻 All of my projects are available at [https://favourorukpe.vercel.app](https://favourorukpe.vercel.app)
 
 - 📝 I regularly write articles on [https://alphadevking.medium.com](https://alphadevking.medium.com)
 
